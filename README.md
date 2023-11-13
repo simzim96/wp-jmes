@@ -138,8 +138,7 @@ DAO Proposals can be raised by any Director, then each address can vote on the p
 Funds in the DAO Identity cannot be spent without a DAO Proposal that passes authorizing the spend.
 
 
-### 
-3.2.3 Official Features
+### 3.2.3 Official Features
 
 Official Features are special features available within the Business Layer that can be awarded to any DAO that requests them via a Governance Proposal that is passed by voting bJMES holders.
 
@@ -183,8 +182,7 @@ Any DAO can create a Governance Proposal by burning an amount of 10 JMES to send
 There are five types of Governance Proposal that any DAO can create:
 
 
-#### 
-3.3.1.1 Text Proposal
+#### 3.3.1.1 Text Proposal
 
 A Text Proposal is the most basic type of Governance Proposal, consisting of a Title and a Description, and an optional attachment of a Funding Request.
 
@@ -252,7 +250,7 @@ JMES Distribution Example:
 
 
 
-![image info](./pictures/dist.png)
+![image info](./dist.png)
 
 
 
